@@ -1,2 +1,3 @@
 # toy_2gal
-This is the code for two-galaxy simulation. It is developed by Shenming Fu.
+This is the code for two-galaxy simulation. 
+Copyright: this code is developed by Shenming Fu.
